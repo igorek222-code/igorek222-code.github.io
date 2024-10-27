@@ -1,0 +1,46 @@
+body {
+    background: url('https://img.goodfon.ru/original/4228x2378/f/ec/anfield-anfield-road-stadium.jpg') ;
+    font-family: Arial;
+    color:rgb(0, 72, 105);
+}
+
+img{
+    width: 300px;
+    border-radius: 10px;
+}
+p{
+    width: 500px;
+}
+
+.btn_link{
+    color: #c6bcbc;
+    background: #0c46c7;
+    padding: 8px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: block;
+    width: 85px;
+    transition: 1s;
+}
+
+.btn_link:hover {
+    background: #d42929;
+    padding: 28px 55px;
+}
+
+.menu {
+    background: none;
+    padding: 30px 20px;
+    margin-bottom: 50px;
+}
+
+.menu__link{
+    color:#ffffff;
+    text-decoration: none;
+    margin-right: 40px;
+    transition: 1s;
+    
+}
+.menu__link:hover {
+    color:aqua;
+}
